@@ -1,0 +1,21 @@
+Player,Age,Nationality,Position,Club,Matches,Goals,Assists,Pass_Accuracy,Shots,Yellow_Cards,Red_Cards
+Lionel Messi,38,Argentina,FW,Inter Miami,30,24,16,91,98,2,0
+Cristiano Ronaldo,41,Portugal,FW,Al Nassr,32,28,5,84,112,4,0
+Kylian Mbappe,27,France,FW,Real Madrid,31,27,8,88,105,3,0
+Erling Haaland,26,Norway,FW,Manchester City,30,29,6,82,108,2,0
+Jude Bellingham,23,England,MF,Real Madrid,29,12,10,90,61,5,0
+Kevin De Bruyne,35,Belgium,MF,Manchester City,25,7,14,92,48,3,0
+Vinicius Jr,26,Brazil,FW,Real Madrid,30,19,11,86,94,6,0
+Mohamed Salah,34,Egypt,FW,Liverpool,32,23,12,87,101,3,0
+Harry Kane,33,England,FW,Bayern Munich,31,25,7,85,97,2,0
+Robert Lewandowski,38,Poland,FW,Barcelona,30,22,5,89,91,1,0
+Rodri,30,Spain,MF,Manchester City,28,5,9,94,42,7,0
+Pedri,23,Spain,MF,Barcelona,27,6,8,93,39,4,0
+Bukayo Saka,25,England,FW,Arsenal,29,16,9,85,78,3,0
+Martin Odegaard,27,Norway,MF,Arsenal,28,8,11,91,45,4,0
+Lautaro Martinez,29,Argentina,FW,Inter Milan,30,21,6,83,88,5,0
+Victor Osimhen,27,Nigeria,FW,Galatasaray,28,20,4,79,82,4,0
+Son Heung-min,34,South Korea,FW,Tottenham,29,17,8,86,76,2,0
+Antoine Griezmann,35,France,FW,Atletico Madrid,30,15,10,89,63,4,0
+Bernardo Silva,32,Portugal,MF,Manchester City,29,9,12,93,51,5,0
+Virgil van Dijk,35,Netherlands,DF,Liverpool,31,3,2,91,18,3,0
